@@ -1,0 +1,40 @@
+
+
+button {
+    background-color: #fada0a;
+    font-style: italic;
+    width:15%;width: 200px;height:25px;border:none ;
+} 
+button:houver{
+    color: aliceblue;
+}
+
+li {
+    font-size: 30px;
+    list-style-type: none;
+}
+
+.plano {
+    margin: 40px;
+    font-size: 30px;
+    width: 600px;height: 60px; border-radius: 30px 20px 30px 20px;
+}
+
+    
+
+.personal {
+    font-weight: bold;
+    height: 60px;
+}
+
+#flex-container  {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+    
+}
+.container { background-color: black;}
+.row { margin: 25px; display: flex; justify-content: center;
+}
+
